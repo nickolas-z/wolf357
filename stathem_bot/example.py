@@ -21,6 +21,3 @@ time()
 datetime(year=2001, month=1, day=1)
 
 variable_from_example = 1
-    
-
-
