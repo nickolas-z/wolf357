@@ -1,0 +1,1 @@
+from stathem_bot.app import main
